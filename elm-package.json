@@ -11,7 +11,7 @@
         "Bootstrap.Html.Internal"
     ],
     "dependencies": {
-        "circuithub/elm-html-shorthand": "7.0.0 <= v < 8.0.0",
+        "circuithub/elm-html-shorthand": "8.0.0 <= v < 10.0.0",
         "elm-lang/core": "2.0.0 <= v < 3.0.0",
         "evancz/elm-html": "3.0.0 <= v < 4.0.0"
     },
